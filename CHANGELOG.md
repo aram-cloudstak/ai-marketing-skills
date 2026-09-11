@@ -2,6 +2,10 @@
 
 Changes to this repo's own code. History before 2026-08-07 predates this fork (upstream jaredrhod/ai-marketing-skills commits).
 
+## 2026-09-11
+
+- Auto-committed changes to: 
+
 ## 2026-09-04
 
 1. Paste the diff directly in your next message
